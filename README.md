@@ -54,13 +54,11 @@ Este proyecto simula el manejo básico de una tienda de ropa utilizando **Node.j
 ## 🚀 Cómo Ejecutar
 
 Instalar dependencias:
-- bash
 - npm install
 - Crear un archivo .env con la siguiente variable:
 
 - env
 - MONGODB_URI=mongodb+srv://<usuario>:<password>@<cluster>.mongodb.net/TiendaRopa
-- Ejecutar el script:
 
-- bash
+- Ejecutar el script:
 - node index.js
