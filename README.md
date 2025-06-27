@@ -20,12 +20,12 @@ Este proyecto simula el manejo básico de una tienda de ropa utilizando **Node.j
   "telefono": "8888-9999"
 }
 
-### `Usuarios`
+`Marcas`
 {
   "nombre": "Nike"
 }
 
-### Prendas
+`Prendas`
 {
   "nombre": "Camiseta Deportiva",
   "marca_id": "ObjectId('...')",
@@ -33,7 +33,7 @@ Este proyecto simula el manejo básico de una tienda de ropa utilizando **Node.j
   "precio": 20000
 }
 
-### Ventas
+`Ventas`
 {
   "usuario_id": "ObjectId('...')",
   "fecha": "2024-06-25T00:00:00.000Z",
