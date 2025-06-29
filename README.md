@@ -1,4 +1,4 @@
-# TiendaRopa 📦👕📊
+# Tienda de Ropa 📦👕📊
 
 Este proyecto simula el manejo básico de una tienda de ropa utilizando **Node.js** y **MongoDB**. Permite registrar usuarios, administrar marcas y prendas de ropa, registrar ventas, actualizar documentos y realizar consultas analíticas sobre los datos.
 
@@ -49,7 +49,7 @@ Este proyecto simula el manejo básico de una tienda de ropa utilizando **Node.j
 
 ## 👥 Integrantes del Proyecto
 
-- Roger Barquero
+- Roger Barquero Ramírez
 
 ## 🚀 Cómo Ejecutar
 
